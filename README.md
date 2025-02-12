@@ -102,13 +102,12 @@ This allows you to work with models that have custom date column names or when y
 
 ## Drivers
 
-We currently support five drivers:
+We currently support four drivers:
 
 -   MySQL
 -   MariaDB
 -   SQLite
 -   PostgreSQL
--   SQL Server
 
 ## Security Vulnerabilities
 
